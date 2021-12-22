@@ -1,0 +1,12 @@
+{
+  "name": "BuanaBudi",
+  "version": "1.0.0",
+  "description": "Halo Guys-Hola Chicos este es mi primer experimento.",
+  "main": "BuanaBudi.js",
+  "scripts": {
+  "start": " node BuanaBudi.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
