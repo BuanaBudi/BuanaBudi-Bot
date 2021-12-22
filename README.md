@@ -2,7 +2,7 @@
 #### Hola un BOT En Spanyol, menu de logos :D
 
 <p align="center">
-<img src="./media/33.jpg" width="300" height="400"/>
+<img src="./media/33.jpeg" width="300" height="400"/>
 </p>
 
 # Mis redes
